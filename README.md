@@ -15,4 +15,4 @@ While Toggled On:
 - WASD to move
 <br><br>
 # Video Demonstration
-https://www.youtube.com/watch?v=ZESJ-5VHFcI
+[![Watch the video](https://img.youtube.com/vi/ZESJ-5VHFcI/hqdefault.jpg)](https://youtu.be/ZESJ-5VHFcI)
